@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhancv
+👋 Hi, I’m @nhancv
 
 <!---
 nhancv/nhancv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
